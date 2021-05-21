@@ -45,7 +45,7 @@ Jeg ville lade afsnittet "Konsistens og tilgængelighed" komme efter "Hvad er No
 
 ## Generelle input:
 
-- Jeg blev overrasket da sproget skiftede fra engelks til dansk efter abstract. Jeg ved ikke om det er kotume at holde abstract i engelsk uanset sprog, men I har sikkert en velovervejet grund.
+- Jeg blev overrasket da sproget skiftede fra engelsk til dansk efter abstract. Jeg ved ikke om det er kotume at holde abstract i engelsk uanset sprog, men I har sikkert en velovervejet grund.
 
 - I sammenligner databaserne på fire kriterier. Det gik først op for mig da jeg nåede til det fjerde. Det vil give et super overblik, hvis I tidligt i Artiklen præsenterer mig for at I vil sammenligne efter fire kriterier. (evt inkl en  begrundende linje om udvælgelsen af disse)
 
@@ -53,6 +53,8 @@ Jeg ville lade afsnittet "Konsistens og tilgængelighed" komme efter "Hvad er No
 
 - Introduktion og konklussion er som fod i hose. Well done!
 
+
+-Helt overordnet synes jeg at I har en fin rød tråd og en solid problemformulering. Det er kun småting jeg kunne komme op med af forslag til forbedringer :-)
 
 
 
